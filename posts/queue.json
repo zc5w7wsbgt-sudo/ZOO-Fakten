@@ -1,0 +1,17 @@
+[
+  {
+    "id": "beispiel-001",
+    "status": "draft",
+    "scheduled_at": "2026-08-28T18:00:00+02:00",
+    "caption": "Hier steht später der geprüfte Instagram-Text mit fünf Hashtags. Quellen werden zusätzlich auf der letzten Karussellfolie und auf der verlinkten Quellenseite genannt.",
+    "media": [
+      {
+        "type": "IMAGE",
+        "url": "https://example.com/bitte-durch-echtes-beitragsbild-ersetzen.jpg"
+      }
+    ],
+    "instagram_media_id": null,
+    "published_at": null,
+    "error": null
+  }
+]
